@@ -1,2 +1,6 @@
-# cviceni_3_NI-UMI
-Udělal jsem úkoly, které byly ve třetím cvičení.
+Udělal jsem úkoly, které byly ve třetím cvičení, v Jupyteru jsou zpracovány takto:
+Úloha 5
+Kód...
+Úloha 4
+Kód...
+atd.
